@@ -1,0 +1,7 @@
+﻿  Cliente.cpp
+  myscl_c.cpp
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  Generando código
+  All 166 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  myscl_c.vcxproj -> C:\Users\allan\OneDrive\Escritorio\Tarea 2 SQL\myscl_c\x64\Release\myscl_c.exe
